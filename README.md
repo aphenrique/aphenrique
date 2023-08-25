@@ -1,4 +1,4 @@
-# Oi, aqui é o Henrique. Seja bem-vindo ao meu github
+# Oi, eu sou o Henrique. Seja bem-vindo ao meu github
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=social-square&logo=Github&logoColor=white&link=https://github.com/aphenrique)](https://github.com/aphenrique)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-alves-bb1b4a213/)](https://www.linkedin.com/in/henrique-alves-bb1b4a213/)
@@ -10,19 +10,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aphenrique&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
-Oi, eu sou Henrique Alves, apaixonado por resolver problemas e pela tecnologia que nos ajuda a resolver muitos deles. Estou me preparando para voltar ao mercado de desenvolvimento.
+Oi, eu sou Henrique Alves, apaixonado por resolver problemas e pela tecnologia que nos ajuda a resolver muitos deles.
+
+Atualmente sou especialista flutter e trabalho na [FTeam](https://www.linkedin.com/company/fteamdev/mycompany/) desde o início de 2022.
 
 # O que tenho experiência ou tenho estudado
 
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
 # Projetos
 
 ## Hinário Batista
